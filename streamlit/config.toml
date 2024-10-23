@@ -1,0 +1,11 @@
+[server]
+# The port where the server will listen for browser connections.
+port = 8052
+
+# Automatically rerun script when the file is modified on disk.
+runOnSave = true
+
+
+[logger]
+# Log level. Valid values are "debug", "info", "warning", "error", and "critical".
+level = "info"
